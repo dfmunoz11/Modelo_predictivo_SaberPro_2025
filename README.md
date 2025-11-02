@@ -3,5 +3,7 @@ Proyecto de la asignatura inteligencia artificial que busca evaluar y predecir e
 
 # Miembros del equipo
 * DANIEL FELIPE MUÑOZ ARANGO, CC.1017258996, Ingeniería Industrial
-* CARLOS ALBERTO ACOSTA ANGARITA, CC.1065596504, Ingeniería Industrial
-* MIGUEL ÁNGEL GALLEGO GARCÍA, CC.1007241982, Ingeniería Civil
+
+# Videos
+# Entrega 2
+https://youtu.be/Jdn6ndssBG8
