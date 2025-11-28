@@ -10,4 +10,4 @@ Proyecto de la asignatura inteligencia artificial que busca evaluar y predecir e
 https://youtu.be/Jdn6ndssBG8
 
 # Entrega final
-
+https://youtu.be/UakNPJfcim8
